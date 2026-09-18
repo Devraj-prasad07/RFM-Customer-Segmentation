@@ -81,6 +81,7 @@ The dataset contains transactional records from an online retail business.
 
 # 🔄 Project Workflow
 
+```text
 Online Retail II Dataset
           ↓
      Data Cleaning
@@ -98,6 +99,7 @@ Online Retail II Dataset
       Power BI
           ↓
  Business Insights & Actions
+```
 
 ---
 
@@ -315,6 +317,7 @@ Dashboard Preview :
 ---
 
 📁 Project Structure
+```text
 RFM-Customer-Segmentation/
 │
 ├── data/
@@ -339,7 +342,7 @@ RFM-Customer-Segmentation/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 🚀 Skills Demonstrated
